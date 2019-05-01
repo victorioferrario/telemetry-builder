@@ -1,0 +1,17 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-selector": [
+      true,
+      "attribute",
+      "telemetry-builder",
+      "camelCase"
+    ],
+    "component-selector": [
+      true,
+      "element",
+      "telemetry-builder",
+      "kebab-case"
+    ]
+  }
+}
