@@ -1,3 +1,2 @@
-# TelemetryBuilder
+# Initial page
 
-npm-run-all
